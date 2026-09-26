@@ -1,6 +1,6 @@
 # eVestigia
+![Interfaz de ejemplo](https://github.com/miguelfortessan/evestigia/blob/main/Interfaz.png)
 
-https://github.com/miguelfortessan/evestigia/blob/main/Interfaz.png 
 
 **Plataforma de portafolios de aprendizaje/ portafolio educativo** con editor visual por bloques, capa social, ciclos de Lesson Study (parcial), analíticas formativas para el profesorado (no incorporan IA ni modelos de ML) y asistentes de IA opcionales (locales con
 Ollama,etc.). Toda la aplicación vive en un único archivo `app.py` (Python + Flask + SQLite), pensada para ser fácil de desplegar y de adaptar a las necesidades.
