@@ -2,7 +2,7 @@
 
 Guía paso a paso para poner eVestigia en internet sin administrar un servidor. La IA (Ollama) queda **desactivada**: si no configuras ningún modelo, los botones de IA no aparecen y el resto funciona igual (incluido el resumen y las sugerencias automáticas por reglas).
 
-> Nota: el envío de correos (avisos, restablecer contraseña, fallos críticos al admin.) necesita el **plan de pago** (Developer, ~10 €/mes), porque el gratuito bloquea la salida a internet. El resto de la app funciona también en el gratuito.
+> Nota: el envío de correos (avisos, restablecer contraseña, fallos críticos al admin.) necesita el **plan de pago** (Developer sobre 10 €/mes en 2026), porque el gratuito bloquea la salida a internet. El resto de la app funciona también en el gratuito.
 
 ## 1. Crear la cuenta
 
